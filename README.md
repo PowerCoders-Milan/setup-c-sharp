@@ -30,7 +30,11 @@ To check everything worked launch those commands to create and run your first ap
 
 you shoud see in the console a message `Hello World!`, congrats you've succesfully installed **.NET** 🥇
 
-*to remove the app we've already created run* `rm -rf ../helloWorld`
+*to remove the app we've already created run*
+```zsh
+cd ..
+rm -rf helloWorld
+```
 
 ## Now it's time to start learning C#
 
